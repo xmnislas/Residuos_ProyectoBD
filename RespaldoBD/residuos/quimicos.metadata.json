@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"d567bd8acffd42f5bc415c1faedc977d","collectionName":"quimicos","type":"collection"}
